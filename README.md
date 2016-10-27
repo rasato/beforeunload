@@ -4,10 +4,10 @@ beforeunloadイベントの挙動を検証するためのアプリです。
 
 ## TOBE
 
-call "form.submit()" with "beforeunload" eventListener.
-popup dialog "leap this screen, OK?". 
-select "no", close dialog and not leap.
-never popup dialog twice.
+* call "form.submit()" with "beforeunload" eventListener.
+* popup dialog "leap this screen, OK?". 
+* select "no", close dialog and not leap.
+* never popup dialog twice.
 
 ## How to run?
 
